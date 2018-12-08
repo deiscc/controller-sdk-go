@@ -4,8 +4,8 @@ package auth
 import (
 	"encoding/json"
 
-	deis "github.com/teamhephy/controller-sdk-go"
-	"github.com/teamhephy/controller-sdk-go/api"
+	deis "github.com/deiscc/controller-sdk-go"
+	"github.com/deiscc/controller-sdk-go/api"
 )
 
 // Register a new user with the controller.

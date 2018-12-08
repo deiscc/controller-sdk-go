@@ -8,8 +8,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/teamhephy/controller-sdk-go"
-	"github.com/teamhephy/controller-sdk-go/api"
+	"github.com/deiscc/controller-sdk-go"
+	"github.com/deiscc/controller-sdk-go/api"
 )
 
 const keyFixture string = `
